@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rekrutacja</string>
+    <string name="click_me">Kliknij mnie!</string>
+    <string name="button">Przycisk</string>
+    <string name="show">Pokaż obrazek</string>
+    <string name="hide">Ukryj obrazek</string>
+    <string name="android_image_description">standardowa ikona aplikacji na androida</string>
+    <string name="toggle">Toggle</string>
+    <string name="back">Wróć</string>
+</resources>
